@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+
+    <string-array name="units">
+        <item>Metre</item>
+        <item>Centimetre</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Ounce</item>
+        <item>Pound</item>
+        <item>Degrees Celsius</item>
+        <item>Degrees Fahrenheit</item>
+        <item>Degrees Kelvin</item>
+    </string-array>
+
+    <string-array name="distances">
+        <item>Metre</item>
+        <item>Centimetre</item>
+        <item>Foot</item>
+        <item>Inch</item>
+    </string-array>
+
+    <string-array name="weights">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Ounce</item>
+        <item>Pound</item>
+    </string-array>
+
+    <string-array name="temperatures">
+        <item>Degrees Celsius</item>
+        <item>Degrees Fahrenheit</item>
+        <item>Degrees Kelvin</item>
+    </string-array>
+</resources>
